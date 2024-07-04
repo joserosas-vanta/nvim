@@ -8,7 +8,7 @@ return {
       typescript = { "prettierd" },
       typescriptreact = { "prettierd" },
       json = { "jq" },
-      markdown = { "prettierd" },
+      -- markdown = { "mdslw" },
       sh = { "shfmt" },
     },
   },

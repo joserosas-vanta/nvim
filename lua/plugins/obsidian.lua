@@ -4,14 +4,14 @@ return {
   lazy = true,
   ft = "markdown",
   opts = {
+    notes_subdir = "notes",
     workspaces = {
       {
-        name = "sagamd",
+        name = "personal",
         path = "~/personal/sagamd",
       },
     },
-    templates = {
-      folder = "templates",
-    },
+    preferred_link_style = "wiki",
+    disable_frontmatter = true,
   },
 }

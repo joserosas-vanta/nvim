@@ -8,7 +8,7 @@ return {
         },
         alacritty = {
           enabled = true,
-          font = "18", -- font size
+          font = "24",
         },
       },
     },
